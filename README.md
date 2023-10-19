@@ -8,7 +8,8 @@ e)Construct code from binary tree and store it in dictionary
 f)Construct encoded text  
 g)Implementation of padding  
 h)We have to return that binary file as an output  
-DECOMPRESSION PART  
-a)Remove padding  
-b)Decoding of text  
+DECOMPRESSION PART 
+a)Decompress  
+b)Remove padding  
+c)Decoding of text  
 Final code testing  
